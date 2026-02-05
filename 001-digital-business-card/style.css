@@ -28,15 +28,15 @@ body{
         ;
     grid-template-columns: 0.8fr 1.2fr;
     grid-template-rows: auto auto auto auto auto;
-    gap: 3px 50px;
+    gap: 3px 20px;
 
     background-color: rgb(162, 207, 149);
-    box-shadow: 15px 15px #777470;
+    box-shadow: 5px 5px #777470;
 
     border-style:solid; 
-    border-radius:30px;
+    border-radius:50px;
     border-color: #102712;
-    border-width: 20px;
+    border-width: 10px;
 
     aspect-ratio: 16 / 9;
     width: min(92vw, 50%);
@@ -122,5 +122,5 @@ body{
     justify-self: center;
 }
 
-.card p { margin: 0; }
+.card p { margin: 0; } 
 .card ul { margin: 0; padding: 0; }
