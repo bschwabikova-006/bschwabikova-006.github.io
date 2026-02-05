@@ -30,7 +30,7 @@ body{
     grid-template-rows: auto auto auto auto auto;
     gap: 3px 20px;
 
-    background-color: rgb(162, 207, 149);
+    background-color: #806947;
     box-shadow: 5px 5px #777470;
 
     border-style:solid; 
